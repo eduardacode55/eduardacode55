@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 💻 dev web front-end @ <a href="https://github.com/GitCode55/" target="_blank">Code 55</a></p>
+<p align="left">💻 dev web front-end @ <a href="https://github.com/GitCode55/" target="_blank">Code 55</a></p>
 
 ###
 
