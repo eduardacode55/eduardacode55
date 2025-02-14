@@ -1,18 +1,9 @@
-<h3 align="center">💻 dev web front-end @ Code 55</h3>
+<h2 align="center">💻 dev web front-end @ Code 55</h2>
+
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardacode55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=false" height="100" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="200" src="https://cdn.dribbble.com/users/416610/screenshots/2391640/media/041ee89d180cdbf71047113aa6abd667.png?resize=768x576&vertical=center"  />
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo"  />
